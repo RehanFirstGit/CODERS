@@ -1,0 +1,18 @@
+{
+  "params": {
+    "local_server": "True",
+    "local_uri": "mysql://root:@localhost/coders",
+    "prod_uri": "mysql://root:@localhost/coders",
+    "fb_url": "https://www.facebook.com/rehan.mondal.75839",
+    "tw_url": "https://www.twitter.com",
+    "git_url": "https://www.github.com",
+    "blog_name": "Coders Spot",
+    "tag_line": "Destination of all Coders",
+    "no_of_posts": 3,
+    "admin_user": "Rehan1",
+    "admin_pass": "12345",
+    "upload_location": "C:\\Users\\KingKhan\\PycharmProjects\\pythonProject\\Files"
+  }
+}
+
+
